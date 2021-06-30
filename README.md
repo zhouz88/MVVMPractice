@@ -18,7 +18,8 @@ https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/an
 3. RXJAVA 使用流程
 4. 线程状态
 5. 线程池状态
-6. handler
+6. handler （内存溢出如何处理）
 7. activity 如何启动的
 8. dagger 优缺点
 9. binder 优缺点
+10.多进程通信方法
