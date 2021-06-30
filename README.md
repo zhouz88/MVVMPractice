@@ -11,3 +11,14 @@ https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/an
 传音 电面
 1. 项目
 2. HashMap
+
+小红书 电面
+1. activity launch mode
+2. view 绘制流程
+3. RXJAVA 使用流程
+4. 线程状态
+5. 线程池状态
+6. handler
+7. activity 如何启动的
+8. dagger 优缺点
+9. binder 优缺点
