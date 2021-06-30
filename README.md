@@ -23,3 +23,6 @@ https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/an
 8. dagger 优缺点
 9. binder 优缺点
 10.多进程通信方法
+11.如何解决滑动冲突
+12.构架模式有哪些MVVM/MVP/。。。
+13.事件分发机制
