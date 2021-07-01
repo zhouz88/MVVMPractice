@@ -26,3 +26,4 @@ https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/an
 12. 如何解决滑动冲突
 13. 构架模式有哪些MVVM/MVP/。。。
 14. 事件分发机制
+15. volatile 和 synchronized
