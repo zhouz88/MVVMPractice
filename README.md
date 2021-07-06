@@ -28,3 +28,13 @@ https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/an
 14. 事件分发机制
 15. volatile 和 synchronized
 16. broadcast receiver 使用
+
+二面;
+1 https/http 了解都少
+2. Fresco 了解多少
+3. Volatile/syncronized 了解多少
+
+声望
+1. Classloader
+2.垃圾回收到
+3. 虚拟机了解多少
